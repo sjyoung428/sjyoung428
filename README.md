@@ -13,3 +13,11 @@
 ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![PlanetScale](https://img.shields.io/badge/PlanetScale-000000.svg?style=for-the-badge&logo=PlanetScale&logoColor=white)
+
+<div align="center" >
+
+![codyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjyoung428&show_icons=true&theme=nightowl)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjyoung428&layout=compact&theme=nightowl)
+
+</div>
